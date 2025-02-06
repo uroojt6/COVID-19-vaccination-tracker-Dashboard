@@ -4,7 +4,7 @@
 Real-time COVID-19 Dashboard
 ------------------------------------------------------------
 
-Dashboard Screenshot: path/to/your/screenshot.png
+<img src="https://github.com/uroojt6/COVID-19-vaccination-tracker-Dashboard/blob/db19929f50d89cb051464e93a2e1475cfe732901/covid-19-vaccination-tracker.png"
 
 ------------------------------------------------------------
 Project Overview
